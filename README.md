@@ -1,2 +1,2 @@
-# Stadium Management System
-this is a Stadium Management System
+# HANGMAN Game
+This is word guessing game
